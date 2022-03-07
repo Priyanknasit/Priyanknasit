@@ -14,8 +14,8 @@
 
 
 [![Gmail Badge](https://img.shields.io/badge/-priyanknasit8@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:priyanknasit8@gmail.com)](mailto:priyanknasit8@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-minoveaz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/priyank-nasit/)](https://www.linkedin.com/in/priyank-nasit/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/minoveaz)](https://github.com/Priyanknasit)
+[![Linkedin Badge](https://img.shields.io/badge/-Priyank-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/priyank-nasit/)](https://www.linkedin.com/in/priyank-nasit/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/Priyanknasit)](https://github.com/Priyanknasit)
 <hr>
 
 ## ⚡ Technologies
@@ -53,45 +53,6 @@
  > 
 > 🔑 14 Private Repositories  
  > 
- 
-**I'm a Eve 🦉** 
-
-```text
-🌞 Morning    8 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.76% 
-🌆 Daytime    22 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.83% 
-🌃 Evening    103 commits    ██████████████████░░░░░░░   74.1% 
-🌙 Night      6 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.32%
-
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday       25 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.99% 
-Tuesday      27 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.42% 
-Wednesday    18 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.95% 
-Thursday     25 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.99% 
-Friday       24 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.27% 
-Saturday     10 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.19% 
-Sunday       10 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.19%
-
-```
-
-**I Mostly Code in TypeScript** 
-
-```text
-TypeScript               6 repos             ██████████░░░░░░░░░░░░░░░   42.86% 
-HTML                     3 repos             █████░░░░░░░░░░░░░░░░░░░░   21.43% 
-JavaScript               3 repos             █████░░░░░░░░░░░░░░░░░░░░   21.43% 
-CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   7.14% 
-Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   7.14%
-
-```
-
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/minoveaz/minoveaz/master/charts/bar_graph.png) 
-
 
 <!--END_SECTION:waka-->
 

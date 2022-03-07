@@ -14,7 +14,7 @@
 
 
 [![Gmail Badge](https://img.shields.io/badge/-priyanknasit8@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:priyanknasit8@gmail.com)](mailto:priyanknasit8@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-Priyank-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/priyank-nasit/)](https://www.linkedin.com/in/priyank-nasit/)
+[![Linkedin Badge](https://img.shields.io/badge/-PriyankNasit-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/priyank-nasit/)](https://www.linkedin.com/in/priyank-nasit/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/Priyanknasit)](https://github.com/Priyanknasit)
 <hr>
 
@@ -34,8 +34,6 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Priyanknasit&count_private=true&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanknasit&layout=compact)](https://github.com/Priyanknasit/github-readme-stats)
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Priyanknasit)
 
 <hr>
 

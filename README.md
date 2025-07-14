@@ -32,10 +32,5 @@
 
 <hr>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Priyanknasit&count_private=true&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanknasit&layout=compact)](https://github.com/Priyanknasit/github-readme-stats)
-
-<hr>
-
 <h2  align="center">💻 Check Out My Repos ⬇️ </h2>
 

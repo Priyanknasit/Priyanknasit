@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently working as a Software Developer:octocat:
+- 🌱 I’m currently working as a Software Developer :octocat:
 
 - :bar_chart: I love Stats and make cool Dashboards
 
